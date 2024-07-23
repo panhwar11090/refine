@@ -5,7 +5,7 @@
   "type": "module",
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
-    "@refinedev/antd": "^5.37.4",
+    "@refinedev/antd": "^5.42.0",
     "@refinedev/cli": "^2.16.21",
     "@refinedev/core": "^4.47.1",
     "@refinedev/devtools": "^1.1.32",
@@ -15,8 +15,10 @@
     "antd": "^5.0.5",
     "graphql-tag": "^2.12.6",
     "graphql-ws": "^5.9.1",
+    "i18next": "^23.12.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-i18next": "^15.0.0",
     "react-router-dom": "^6.8.1"
   },
   "devDependencies": {
@@ -27,6 +29,7 @@
     "@types/node": "^18.16.2",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/react-i18next": "^8.1.0",
     "@typescript-eslint/eslint-plugin": "^5.57.1",
     "@typescript-eslint/parser": "^5.57.1",
     "@vitejs/plugin-react": "^4.0.0",
